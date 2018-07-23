@@ -6,4 +6,6 @@ tensorflow 1.9
 
 ### result
 
+
 ### loss
+![loss_img](./output/loss.png)
