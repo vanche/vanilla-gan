@@ -1,9 +1,9 @@
-##VANILLA GAN Tensorflow Implementation
+## VANILLA GAN Tensorflow Implementation
 
-###Environment  
+### Environment  
 python 3.6  
 tensorflow 1.9
 
-###result
+### result
 
-###loss
+### loss
